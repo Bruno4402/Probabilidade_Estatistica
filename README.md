@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="figures/cabecalho_branco.jpg" alt="Cabeçalho" width="100%">
-</div>
+![Ilum Escola de Ciência, CNPEM](https://pages.cnpem.br/workshopbioimagens/wp-content/uploads/sites/166/2023/06/logo-ilum.png)
 
 <h1 align="center">Probabilidade e Estatística</h1>
 
