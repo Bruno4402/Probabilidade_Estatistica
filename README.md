@@ -1,5 +1,6 @@
-![Ilum Escola de Ciência, CNPEM](https://pages.cnpem.br/workshopbioimagens/wp-content/uploads/sites/166/2023/06/logo-ilum.png)
-
+<div align="center">
+  <img src="figures/cabecalho_branco.jpg" alt="Cabeçalho" width="100%">
+</div>
 
 <h1 align="center">Probabilidade e Estatística</h1>
 
@@ -29,3 +30,7 @@ As atividades abordam os seguintes tópicos da disciplina:
 
 - **Jupyter Lab** para desenvolvimento do código.
 - **IA** para diferentes tarefas, descritas especificamente em cada atividade.
+
+<div align="center">
+  <img src="figures/rodape_eleicao.png" alt="Rodape" width="100%">
+</div>
