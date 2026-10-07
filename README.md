@@ -16,7 +16,7 @@ As atividades abordam os seguintes tópicos da disciplina:
 * Probabilidade clássica e combinatória: cálculo de probabilidades em espaços amostrais discretos e problemas combinatórios.
 * Teorema de Bayes: cálculo de probabilidades a posteriori.
 * Distribuições discretas e contínuas: comportamento da distribuição binomial e análise teórica/numérica de distribuições de probabilidade (PDFs, CDFs e estatísticas associadas).
-* Distribuições contínuas e probabilidade de eventos conjuntos: caracterização analítica das distribuições uniforme e normal, cálculo de probabilidades via função acumulada ($1 - \text{CDF}$) e avaliação gráfica da interseção de variáveis aleatórias independentes.
+* Distribuições contínuas e probabilidade de eventos conjuntos: caracterização analítica das distribuições uniforme e normal, cálculo de probabilidades via função acumulada e avaliação gráfica da interseção de variáveis aleatórias independentes.
 
 ## :open_file_folder: Arquivos do repositório:
 
