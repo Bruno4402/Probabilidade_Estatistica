@@ -28,7 +28,3 @@ As atividades abordam os seguintes tópicos da disciplina:
 
 - **Jupyter Lab** para desenvolvimento do código.
 - **IA** para diferentes tarefas, descritas especificamente em cada atividade.
-
-<div align="center">
-  <img src="figures/rodape_eleicao.png" alt="Rodape" width="100%">
-</div>
