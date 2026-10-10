@@ -17,6 +17,7 @@ As atividades abordam os seguintes tópicos da disciplina:
 * Teorema de Bayes: cálculo de probabilidades a posteriori.
 * Distribuições discretas e contínuas: comportamento da distribuição binomial e análise teórica/numérica de distribuições de probabilidade (PDFs, CDFs e estatísticas associadas).
 * Distribuições contínuas e probabilidade de eventos conjuntos: caracterização analítica das distribuições uniforme e normal, cálculo de probabilidades via função acumulada e avaliação gráfica da interseção de variáveis aleatórias independentes.
+* Testes de hipóteses (simulação e analítica) e inferência estatística: formulação de hipóteses nula e alternativa, avaliação de evidências por meio da Distância de Variação Total (TVD), determinação de p‑valores e aplicação do teste de aderência Qui‑Quadrado para comparação entre frequências observadas e esperadas.
 
 ## :open_file_folder: Arquivos do repositório:
 
