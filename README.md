@@ -19,7 +19,7 @@ As atividades abordam os seguintes tópicos da disciplina:
 * Distribuições contínuas e probabilidade de eventos conjuntos: caracterização analítica das distribuições uniforme e normal, cálculo de probabilidades via função acumulada e avaliação gráfica da interseção de variáveis aleatórias independentes.
 * Testes de hipóteses (simulação e analítica) e inferência estatística: formulação de hipóteses nula e alternativa, avaliação de evidências por meio da Distância de Variação Total (TVD), determinação de p‑valores e aplicação do teste de aderência Qui‑Quadrado para comparação entre frequências observadas e esperadas.
 * Teorema do Limite Central (TLC): experimentos com distribuições claramente não normais (uniforme, exponencial e bimodal), comparação com distribuição de Cauchy e aplicações do TLC.
-* Testes de hipótese: análise de situações-problema por meio dos testes t de Student, t de Welch e ANOVA, incluindo análise exploratória, verificação de requisitos e interpretação dos resultados.
+* Testes de hipótese: análise de situações-problema por meio dos testes t de Student, t de Welch e *ANOVA*, incluindo análise exploratória, verificação de requisitos e interpretação dos resultados.
 
 ## :open_file_folder: Arquivos do repositório:
 
