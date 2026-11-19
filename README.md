@@ -20,6 +20,7 @@ As atividades abordam os seguintes tópicos da disciplina:
 * Testes de hipóteses (simulação e analítica) e inferência estatística: formulação de hipóteses nula e alternativa, avaliação de evidências por meio da Distância de Variação Total (TVD), determinação de p‑valores e aplicação do teste de aderência Qui‑Quadrado para comparação entre frequências observadas e esperadas.
 * Teorema do Limite Central (TLC): experimentos com distribuições claramente não normais (uniforme, exponencial e bimodal), comparação com distribuição de Cauchy e aplicações do TLC.
 * Testes de hipótese: análise de situações-problema por meio dos testes t de Student, t de Welch e *ANOVA*, incluindo análise exploratória, verificação de requisitos e interpretação dos resultados.
+* Problema de Monty Hall: uso de simulação computacional e teste de hipótese Z de uma proporção para validar experimentalmente a probabilidade de sucesso da estratégia de troca de portas.
 
 ## :open_file_folder: Arquivos do repositório:
 
